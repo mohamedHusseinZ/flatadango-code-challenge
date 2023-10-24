@@ -1,0 +1,24 @@
+body{
+    background-color:gray;
+}
+/* Basic styling for movie cards */
+.movie-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    min-height: 300px;
+}
+
+/* Styles for movie poster images */
+.movie-poster {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+/* Customize styles as needed for your movie data */
+
+
